@@ -1,0 +1,69 @@
+{
+    "fuentes": {
+        "1": "https://es.wikipedia.org/wiki/Premios_Nacionales_de_Cuba",
+        "2": "https://www.ecured.cu/Premios_Nacionales",
+        "3": "https://endac.org/encyclopedia/premios-nacionales-de-cine-otorgados-en-cuba/"
+    },
+
+    "top_premios_mas_conocidos": [
+        {
+            "nombre": "Premio Nacional de Literatura",
+            "año_creacion": 1983,
+            "institucion": "Instituto Cubano del Libro",
+            "primer_ganador": "Nicolás Guillén",
+            "razon_de_fama": "Es el premio cultural más antiguo y prestigioso del país. Lo han ganado los escritores más importantes de Cuba."
+        },
+        {
+            "nombre": "Premio Nacional de Música",
+            "año_creacion": 1997,
+            "institucion": "Instituto Cubano de la Música",
+            "primer_ganador": "Harold Gramatges",
+            "razon_de_fama": "Se lo han dado a grandes figuras como Chucho Valdés y Adalberto Álvarez. Es súper respetado en el mundo musical."
+        },
+        {
+            "nombre": "Premio Nacional de Danza",
+            "año_creacion": 1998,
+            "institucion": "Consejo Nacional de las Artes Escénicas",
+            "primer_ganador": "Alicia Alonso",
+            "razon_de_fama": "Por tener como primera ganadora a Alicia Alonso, un ícono del ballet cubano. Es muy simbólico."
+        },
+        {
+            "nombre": "Premio Nacional de Artes Plásticas",
+            "año_creacion": 1994,
+            "institucion": "Consejo Nacional de las Artes Plásticas",
+            "primer_ganador": "Raúl Martínez",
+            "razon_de_fama": "Porque reúne a los artistas visuales más importantes del país. Es muy comentado cada año."
+        },
+        {
+            "nombre": "Premio Nacional de Cine",
+            "año_creacion": 2003,
+            "institucion": "ICAIC (Instituto Cubano del Arte e Industria Cinematográficos)",
+            "primer_ganador": "Humberto Solás",
+            "razon_de_fama": "Por reconocer a las figuras más grandes del cine cubano. Se entrega en la Cinemateca."
+        },
+        {
+            "nombre": "Premio Nacional de Ciencias Sociales y Humanísticas",
+            "año_creacion": 1995,
+            "institucion": "Consejo de Ciencias Sociales",
+            "primer_ganador": "Fernando Martínez Heredia",
+            "razon_de_fama": "Es el más prestigioso entre los premios académicos. Reconoce el pensamiento cubano."
+        }
+    ],
+
+    "resumen": {
+        "total_premios": 6,
+        "premio_mas_antiguo":
+        {
+            "nombre": "Premio Nacional de Literatura",
+            "año": 1983
+        },
+        "premio_mas_reciente": 
+        {
+            "nombre": "Premio Nacional de Cine",
+            "año": 2003
+        },
+        "areas_representadas": ["Arte", "Cultura", "Ciencias Sociales"],
+        "decada_con_mas_premios": "1990s"
+    }
+
+} 
