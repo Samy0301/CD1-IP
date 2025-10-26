@@ -1,14 +1,14 @@
-#region CODE 0 EJEMPLO ANTERIOR MEDIR TU VELOCIDAD DE TECLEO
-#Cómo medir el tiempo que demoras en teclear una cadena
+# region CODE 0 EJEMPLO ANTERIOR MEDIR TU VELOCIDAD DE TECLEO
+# Cómo medir el tiempo que demoras en teclear una cadena
 # import time
 # inicio = time.time()  # instante justo antes del input
 # nombre1 = input("Escribe tu nombre --> ")
 # t1 = time.time() - inicio #tiempo transcurrido mientras teclea el nombre
-#
+
 # inicio = time.time()  # instante justo antes del input
 # nombre2 = input("Vuelvelo a teclear --> ")
 # t2 = time.time() - inicio
-#
+
 # if nombre1 == nombre2: #si lo tecleó dos veces seguidas igual lo damos como correcto
 #     if t1<t2:
 #         print(f'Hola {nombre1} te has demorado {t1:.3f} segs en teclear tu nombre')
@@ -17,8 +17,8 @@
 #         print(f'Hola {nombre2} te has demorado {t2:.3f} segs en teclear tu nombre')
 #         print(f'a una velocidad de {t2/len(nombre2): .3f} caracteres x segundo')
 # else: print('Lo siento parece que no has tecleado bien el nombre')
-#Este código no da la oportunidad de rectificar si no tecleaste dos veces seguidas la misma cadena
-#endregion
+# Este código no da la oportunidad de rectificar si no tecleaste dos veces seguidas la misma cadena
+# endregion
 
 #region CODE 1 CICLO PARA REPETIR EL PROCESO MIENTRAS LA CONDICION DEL CICLO SEA TRUE
 # import time
@@ -51,6 +51,7 @@
 #     t1 = time.time() - inicio #tiempo transcurrido mientras teclea el nombre
 #     inicio = time.time()  # instante justo antes del input
 #     nombre2 = input("Vuelvelo a teclear --> ")
+
 #     t2 = time.time() - inicio
 #     if nombre1 == nombre2: #si lo tecleó dos veces seguidas igual lo damos como correcto
 #         if t1<t2:
