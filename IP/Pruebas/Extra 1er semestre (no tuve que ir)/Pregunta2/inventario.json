@@ -1,0 +1,20 @@
+{
+    "arroz":
+    {
+        "disponibilidad": 5,
+        "precio_de_venta": 560,
+        "precio_de_costo": 450.5
+    },
+    "frijol":
+    {
+        "disponibilidad": 24,
+        "precio_de_venta": 755,
+        "precio_de_costo": 700
+    },
+    "aceite":
+    {
+        "disponibilidad": 12,
+        "precio_de_venta": 900,
+        "precio_de_costo": 780.5
+    }
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "acción": "compra",
+        "producto": "aceite",
+        "cantidad": 32
+    },
+    {
+        "acción": "venta",
+        "producto": "arroz",
+        "cantidad": 3
+    },
+    {
+        "acción": "venta",
+        "producto": "aceite",
+        "cantidad": 10
+    },
+    {
+        "acción": "compra",
+        "producto": "frijol",
+        "cantidad": 4
+    },
+    {
+        "acción": "venta",
+        "producto": "arroz",
+        "cantidad": 1
+    }
+]
