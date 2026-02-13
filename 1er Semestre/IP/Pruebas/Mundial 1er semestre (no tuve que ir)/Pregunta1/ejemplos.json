@@ -1,0 +1,41 @@
+[
+  [
+    [
+      [null, null, null, null, null, null, null, null],
+      [null, null, null, null, null, null, null, null],
+      [null, null, null, null, null, null, null, null],
+      [null, null, null, null, null, null, null, null],
+      [null, "N" , null, "B" , null, null, null, null],
+      [null, null, null, null, null, null, null, null],
+      [null, "N" , null, null, null, "N" , null, "N" ],
+      ["N" , null, "N" , null, "BB", null, null, null]
+    ],
+    1
+  ],
+  [
+    [
+      [null, "B" , null, "B" , null, null, null, null],
+      ["B" , null, null, null, null, null, null, null],
+      [null, "NN", null, "N" , null, null, null, null],
+      [null, null, null, null, null, null, null, null],
+      [null, "N" , null, null, null, null, null, null],
+      [null, null, null, null, null, null, "N" , null],
+      [null, "N" , null, "NN", null, null, null, "N" ],
+      [null, null, null, null, "BB", null, null, null]
+    ],
+    5
+  ],
+  [
+    [
+      [null, null, null, null, null, null, null, null],
+      [null, null, "N" , null, null, null, "B" , null],
+      [null, null, null, "NN", null, "N" , null, null],
+      [null, null, null, null, "BB", null, null, null],
+      [null, null, null, null, null, "B" , null, null],
+      [null, null, "N" , null, null, null, "NN", null],
+      [null, "NN", null, null, null, null, null, null],
+      [null, null, null, null, null, null, null, null]
+    ],
+    0
+  ]
+]

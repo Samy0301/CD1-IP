@@ -1,0 +1,74 @@
+[
+    {
+        "id": 101,
+        "title": "Quantum Horizon",
+        "genres": ["Sci-Fi", "Adventure"],
+        "release_year": 2024,
+        "critic_rating": 8.5,
+        "total_views": 4500000,
+        "is_original": true
+    },
+    {
+        "id": 102,
+        "title": "The Last Detective",
+        "genres": ["Crime", "Drama", "Mystery"],
+        "release_year": 1998,
+        "critic_rating": 9.2,
+        "total_views": 120000,
+        "is_original": false
+    },
+    {
+        "id": 103,
+        "title": "Super Fast Cars 9",
+        "genres": ["Action", "Thriller"],
+        "release_year": 2023,
+        "critic_rating": 5.5,
+        "total_views": 8000000,
+        "is_original": false
+    },
+    {
+        "id": 104,
+        "title": "Code Red: The Documentary",
+        "genres": ["Documentary", "History"],
+        "release_year": 2025,
+        "critic_rating": 7.8,
+        "total_views": 50000,
+        "is_original": true
+    },
+    {
+        "id": 105,
+        "title": "Midnight Whispers",
+        "genres": ["Horror", "Thriller"],
+        "release_year": 2024,
+        "critic_rating": 6.0,
+        "total_views": 2000000,
+        "is_original": true
+    },
+    {
+        "id": 106,
+        "title": "Galactic Empire V",
+        "genres": ["Sci-Fi", "Action"],
+        "release_year": 2020,
+        "critic_rating": 7.9,
+        "total_views": 3100000,
+        "is_original": false
+    },
+    {
+        "id": 107,
+        "title": "Romantic Sunset",
+        "genres": ["Romance", "Drama"],
+        "release_year": 2023,
+        "critic_rating": 7.2,
+        "total_views": 500000,
+        "is_original": false
+    },
+    {
+        "id": 108,
+        "title": "Laugh Out Loud",
+        "genres": ["Comedy"],
+        "release_year": 2015,
+        "critic_rating": 6.8,
+        "total_views": 1500000,
+        "is_original": false
+    }
+]
